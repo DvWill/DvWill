@@ -1,11 +1,5 @@
 <h1 align="center">William Murcia 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Desenvolvedor+Full+Stack;Java+%7C+Python+%7C+JS;React+%2B+Spring+Boot+%7C+Vite;Estudando+Back-End+Avançado;Bem-vindo+ao+meu+GitHub!">
-</p>
-
----
-
 ## 🧠 Sobre mim
 
 - 💼 Estagiário na **ADASA**, desenvolvendo soluções full stack
