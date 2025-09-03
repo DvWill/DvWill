@@ -3,8 +3,8 @@
 ## 🧠 Sobre mim
 
 - 💼 Estagiário na **ADASA**, desenvolvendo soluções full stack
-- 🧩 Equipe SRH: APIs com **Google Maps** e outras libs integradas ao React
-- 💻 Stack principal: **Java + Spring Boot**, **React + Vite**, **Python**
+- 🧩 Equipe SAE: Automações usando N8N e Power automate.
+- 💻 Stack principal: **Java + Spring Boot**, **React + Vite**, **Python**, **N8N + PowerAutomate**
 - 🎯 Foco em evolução constante como **Back-End Developer**, com paixão também por Front-End
 
 ---
